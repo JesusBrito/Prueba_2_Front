@@ -2,4 +2,4 @@
 
 Generar un rectangulo tomando en cuenta las medidas dadas utilizando react native
 
-![Ejemplo](/images/prueba1.png)
+![Ejemplo](/images/prueba1.jpeg)
